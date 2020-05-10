@@ -1,5 +1,5 @@
 {
-  "name": "Lavendr",
+  "name": "lavendr",
   "version": "2.0.0",
   "description": "Bot de discord",
   "main": "lavender.js",
@@ -20,8 +20,8 @@
     "url": "git+https://github.com/dorianxonic/Lavendr.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "dorianx",
+  "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/dorianxonic/Lavendr/issues"
   },
