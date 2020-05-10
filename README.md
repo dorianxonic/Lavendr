@@ -1,0 +1,2 @@
+# Lavendr
+ Lavender Discord Bot
