@@ -15,7 +15,7 @@
   },
   "scripts": {
     "build": "tsc", 
-    "start": "node dist/lavender.js",
+    "start": "node dist/lavendr.js",
     "dev":  "nodemon -e ts --exec \"npm run build && npm start\""
   },
   "repository": {
