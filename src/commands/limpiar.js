@@ -31,7 +31,7 @@ module.exports  = {
         }
         else {
             await message.delete({timeout: 10})
-            await message.channel.send(`No tienes permiso para eliminar mensajes ${message.member}`)
+            await message.channel.send(`No tienes permiso para eliminar mensajes, ${message.member}`)
             .catch(err => console.log(err));
         }
 
