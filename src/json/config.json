@@ -1,0 +1,49 @@
+{
+    "opt": {
+        "prefix"    : "!",
+        "colors" : {
+
+            "rojo"          : "#f44336",
+            "rosa"          : "#E91E63",
+            "fucsia"        : "#D500F9",
+            "morado"        : "#9C27B0",
+            "barbie"        : "#EA80FC",
+            "violeta"       : "#673AB7",
+            "azulete"       : "#3F51B5",
+            "azul"          : "#2196F3",
+            "azulclaro"     : "#03A9F4",
+            "cian"          : "#00BCD4",
+            "verdeazul"     : "#009688",
+            "verde"         : "#4CAF50",
+            "verdeclaro"    : "#8BC34A",
+            "lima"          : "#CDDC39",
+            "amarillo"      : "#FFEB3B",
+            "ambar"         : "#FFC107",
+            "naranja"       : "#FF9800",
+            "naranjintenso" : "#FF5722",
+            "marron"        : "#795548",
+            "gris"          : "#9E9E9E",
+            "grisclaro"     : "#BDBDBD",
+            "azulgrisaceo"  : "#607D8B",
+            "blanco"        : "#F5F5F5",
+            "negro"         : "#212121"
+
+            },
+
+        "gif": {
+
+            "kick": "./img/gif/kick.gif",
+            "ban":  "./img/gif/ban.gif",
+            "pong": "./img/gif/pong.gif",
+            "no":   "./img/gif/no.gif" 
+
+        },
+
+        "img": {
+
+            "info": "./img/png/info.png",
+            "logo": "./img/png/logo.png"
+
+        }
+    }
+}
