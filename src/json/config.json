@@ -1,6 +1,6 @@
-{
-    "opt": {
-        "prefix"    : "!",
+{   
+    "opts" : {
+        "prefix" : "!",
         "colors" : {
 
             "rojo"          : "#f44336",
@@ -45,5 +45,5 @@
             "logo": "./img/png/logo.png"
 
         }
-    }
+    } 
 }

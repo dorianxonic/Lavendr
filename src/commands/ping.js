@@ -1,5 +1,6 @@
-import * as opt from '../json/config.json'
-import * as Discord from 'discord.js'
+/*
+const opt = require('../json/config.json')
+const Discord = require('discord.js')
 
 module.exports = {
     name: 'ping',
@@ -7,7 +8,7 @@ module.exports = {
     async execute(message) {
         message.delete().catch(() => console.error)
         const m = new Discord.MessageEmbed()
-        .setColor(opt.opt.colors.azulclaro)
+        .setColor(opt_1.colors.azulclaro)
         .setDescription('Ping?')
         await message.channel.send(m)
         message.edit(m
@@ -19,3 +20,4 @@ module.exports = {
     }
 };
 
+*/
