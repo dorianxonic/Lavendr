@@ -17,9 +17,13 @@
   },
   "homepage": "https://github.com/dorianxonic/Lavendr#readme",
   "dependencies": {
+    "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
-    "strftime": "^0.10.0"
+    "strftime": "^0.10.0",
+    "ytdl-core": "^2.1.2"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
