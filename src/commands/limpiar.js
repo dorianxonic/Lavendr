@@ -2,7 +2,7 @@ const opts      = require('../json/config.json');
 const Discord   = require('discord.js');
 module.exports  = {
     name: 'limpiar',
-    description: 'Borra una cantidad determinada de mensajes en el canal en que se ejecuta.',
+    description: 'Borra una cantidad indicada de mensajes en el canal.',
     async execute(message, args) {
         const channel = message.channel
         if (message.member.hasPermission('MANAGE_MESSAGES')) {
