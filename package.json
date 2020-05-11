@@ -4,7 +4,7 @@
   "description": "Bot de uso personal.",
   "main": "./src/lavendr.js",
   "scripts": {
-    "dev": "nodemon ./src/lavendr.js"
+    "dev": "nodemon ./src/lavender.js"
   },
   "repository": {
     "type": "git",
