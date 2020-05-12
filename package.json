@@ -1,6 +1,6 @@
 {
   "name": "Lavender",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Bot de uso personal.",
   "main": "./src/lavendr.js",
   "scripts": {
