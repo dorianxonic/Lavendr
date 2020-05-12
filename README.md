@@ -8,6 +8,6 @@ Transición de Discord.js v11 a v12
 
 La ruta del archivo `.env` es la raíz del bot.
 
-## Dependencias para no devs
+## Dependencias mínimas
 
 `npm i discord.js fs strftime dotenv`
